@@ -1,0 +1,20 @@
+bmw ,9987
+ferari , 900
+civic ,200
+fiat ,300
+gol ,400
+peugeout ,7865
+chevrolet ,3467
+toyota, 6372
+hyundai ,2167
+mercedes, 7658
+audi ,7643
+lamborguini ,5967
+citroen ,2341
+subaru ,1768
+ford ,3534
+jeep ,5614
+ram ,7364
+porche ,8000
+nissan ,188
+colola , 50000

@@ -1,0 +1,12 @@
+[
+    {
+        "marca": "ok",
+        "modelo": "ta",
+        "preco": 20000.0
+    },
+    {
+        "marca": "corola",
+        "modelo": "branco",
+        "preco": 50000.0
+    }
+]
